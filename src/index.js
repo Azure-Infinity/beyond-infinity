@@ -1,8 +1,8 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
-        cssPath: 'styles/light.css',
+      'plugin-beyond-infinity': {
+        cssPath: 'styles/infinity.css',
         darkMode: false
       }
     }
