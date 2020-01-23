@@ -7,7 +7,7 @@
   "license": "MIT",
   "desktop-wallet": {
     "title": "Beyond-Infinity",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "logo": "https://github.com/Azure-Infinity/beyond-infinity/blob/master/src/logo.png",
     "categories": [
       "theme"
     ],
