@@ -18,6 +18,14 @@ a:hover {
    color:#818252;
 }
 
+.MenuTab__nav__item {
+	color:#818252;
+}
+
+.MenuOptions {
+	background:#181818;
+}
+
 .theme-plugin-beyond-infinity {
   --theme-page: #edf4f5;
   --theme-page-text: #969696;
@@ -61,10 +69,10 @@ a:hover {
   --theme-feature: rgba(0, 0, 0, .4);
   --theme-feature-item-text: #818252;
   --theme-feature-item-hover: #818252;
-  --theme-feature-item-alternative: #101010;
+  --theme-feature-item-alternative: rgba(0, 0, 0, .30);
   --theme-feature-item-alternative-text: #818252;
   --theme-feature-item-hover-text: #818252;
-  --theme-feature-item-selected: #191919;
+  --theme-feature-item-selected: rgba(0, 0, 0, .30);
   --theme-feature-item-selected-text: #e5e5e5;
   --theme-feature-item-indicator: #818252;
 
