@@ -63,7 +63,8 @@ a {
   --theme-chart-price: #969696;
 
   --theme-button: #191919;
-  --theme-button-active: #c5dbed;
+  --theme-button-active: rgba(0, 0, 0, .30);
+  --theme-button-active-hover: red;
   --theme-button-text: #818252;
   --theme-button-light: #f1f5f8;
   --theme-button-light-text: #8795a1;
@@ -75,9 +76,9 @@ a {
   --theme-option-button-hover: #cc5e60;
   --theme-option-button-text: #818252;
   --theme-switch-button: #191919;
-  --theme-option-heading-button: #3d456d;
-  --theme-option-heading-button-hover: #cc5e60;
-  --theme-option-heading-button-text: #8894cf;
+  --theme-option-heading-button: rgba(0, 0, 0, .30);
+  --theme-option-heading-button-hover: rgba(255, 255, 255, .10);
+  --theme-option-heading-button-text: #818252;
   --theme-input-toggle-choice: #f1f5f8;
   --theme-input-toggle-choice-text: #606f7b;
   --theme-input-field-border: #818252;
