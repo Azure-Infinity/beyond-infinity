@@ -32,6 +32,6 @@
   "homepage": "https://github.com/azure-infinity/beyond-infinity",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/azure-infinity/theme-template.git"
   }
 }
