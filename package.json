@@ -7,7 +7,7 @@
   "license": "MIT",
   "desktop-wallet": {
     "title": "Beyond-Infinity",
-    "logo": "https://github.com/Azure-Infinity/beyond-infinity/blob/master/src/logo.png",
+    "logo": "https://github.com/Azure-Infinity/beyond-infinity/raw/master/src/logo.png",
     "categories": [
       "theme"
     ],
