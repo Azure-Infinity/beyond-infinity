@@ -1,6 +1,6 @@
 {
   "name": "@azure-infinity/beyond-infinity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This theme will take ARK to infinity and beyond.",
   "main": "src/index.js",
   "author": "Azure-Infinity",
