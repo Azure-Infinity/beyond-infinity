@@ -1,3 +1,7 @@
+a {
+	color:#818252;
+}
+
 .theme-plugin-beyond-infinity {
   --theme-page: #edf4f5;
   --theme-page-text: #969696;
@@ -29,8 +33,8 @@
   --theme-send-circle-register-delegate-text: #ffffff;
   --theme-send-circle-vote: #e393a6;
   --theme-send-circle-vote-text: #954458;
-  --theme-transaction-detail-gradient1: rgba(255, 255, 255, 0);
-  --theme-transaction-detail-gradient2: rgba(255, 255, 255, 0);
+  --theme-transaction-detail-gradient1: rgba(255, 255, 255, .0);
+  --theme-transaction-detail-gradient2: rgba(255, 255, 255, .0);
   --theme-transaction-detail-arrow: #4d536c;
 
   --theme-wallet-new-selected: #282a2b;
@@ -52,7 +56,7 @@
 
   --theme-button-special-choice: #1e1e1e;
 
-  --theme-heading-background: #343956;
+  --theme-heading-background: rgba(255,255,255,.0);
   --theme-heading-text: #818252;
 
   --theme-chart-background: rgba(0, 0, 0, .0);
