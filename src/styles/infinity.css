@@ -11,7 +11,11 @@ a:hover {
 }
 
 .AppSidemenu__logo {
-	background:rgba(129, 130, 82, .30);
+   background:rgba(129, 130, 82, .30);
+}
+
+.WalletGrid__wallet__name {
+   color:#818252;
 }
 
 .theme-plugin-beyond-infinity {
