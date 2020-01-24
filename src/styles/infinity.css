@@ -10,6 +10,10 @@ a:hover {
    display:none;
 }
 
+.AppSidemenu__logo {
+	background:rgba(129, 130, 82, .30);
+}
+
 .theme-plugin-beyond-infinity {
   --theme-page: #edf4f5;
   --theme-page-text: #969696;
