@@ -26,6 +26,26 @@ a:hover {
 	background:#181818;
 }
 
+.bg-theme-settings {
+	background:#181818;
+}
+
+.bg-theme-settings-sub {
+	background:#818252;
+}
+
+.ButtonReload {
+	background:#181818;
+}
+
+.ButtonReload:hover {
+	background:#181818;
+}
+
+.ButtonSwitch__circle {
+	background:#818252;
+}
+
 .theme-plugin-beyond-infinity {
   --theme-page: #edf4f5;
   --theme-page-text: #969696;
